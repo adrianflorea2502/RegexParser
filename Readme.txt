@@ -1,4 +1,3 @@
-Tema 3 LFA FloreaAdrian336CB
 ============================
 		Regex parser
 
